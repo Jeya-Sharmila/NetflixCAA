@@ -1,13 +1,12 @@
-# Netflix: Marketing Mix Analysis (Phase II)
+# Netflix: Marketing Mix Analysis 
 
-Group 4 marketing presentation analysing how Netflix manages its **product**, **branding**, **pricing**, **distribution** and **promotion** decisions. The deck has 42 slides and was designed in Canva.
+Marketing presentation analysing how Netflix manages its **product**, **branding**, **pricing**, **distribution** and **promotion** decisions. The deck has 42 slides and was designed in Canva.
 
 ---
 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Team (Group 4)](#team-group-4)
 - [Topics Covered](#topics-covered)
 - [Key Takeaways](#key-takeaways)
 - [Repository Contents](#repository-contents)
@@ -19,18 +18,6 @@ Group 4 marketing presentation analysing how Netflix manages its **product**, **
 ## Overview
 
 Netflix is a global subscription video-on-demand (SVOD) service. This project examines the marketing decisions behind its growth, from product mix and packaging to pricing tiers, subscription distribution and a multi-channel promotion strategy that includes regional and celebrity-led campaigns.
-
-## Team (Group 4)
-
-| Name | Register No. |
-|---|---|
-| Bhagyashree M | 3122258001018 |
-| Deepak B | 3122258001023 |
-| Dhanu Shri J | 3122258221027 |
-| Divya Barathi S | 3122258001030 |
-| Jeya Sharmila J | 3122258001044 |
-| Jayasuriya A | 3122258001042 |
-| Lathikka BK | 3122258001058 |
 
 ## Topics Covered
 
